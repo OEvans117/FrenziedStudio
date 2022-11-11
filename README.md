@@ -11,6 +11,6 @@
 
 ``Interpreting.RunProject(currentProject, true);``
 
-Documentation:
+**Documentation:**
 
 https://git-34.gitbook.io/frenziedstudio/
