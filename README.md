@@ -7,7 +7,7 @@
 
 **Run a FrenziedLang project:**
 
-``var currentProject = new InterpretedProject(currentScript.interpretString);``
+``var currentProject = new InterpretedProject("");``
 
 ``Interpreting.RunProject(currentProject, true);``
 
