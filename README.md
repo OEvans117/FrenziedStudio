@@ -1,5 +1,6 @@
 # FrenziedStudio
-## FrenziedStudio intepretation logic - reads and executes FrenziedLang on a Chrome browser. 
+## FrenziedStudio intepretation logic - reads and executes FrenziedLang on a Chrome browser.
+## This project simplifies the coding process for multithreaded web automation.
 
 * This project will always be open source / free to download.
 * This project is no where near production ready, so please expect this.
